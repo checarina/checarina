@@ -1,3 +1,5 @@
+### [Personal Portfolio Site](https://checarina.github.io/)
+
 - 👋 Hi, I’m @checarina
 - 👀 I’m interested in machine learning / NLP / web dev
 - 🌱 I’m currently learning Python
