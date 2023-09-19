@@ -1,8 +1,8 @@
 ### [Personal Portfolio Site](https://checarina.github.io/)
 
-- 👋 Hi, I’m @checarina
-- 👀 I’m interested in machine learning / NLP / web dev
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @checarina.
+- 👀 I’m a linguist & full-stack web developer.
+- 🌱 I’m currently working with Python & Java.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
